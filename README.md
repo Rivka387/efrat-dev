@@ -41,7 +41,6 @@ I'm a passionate Full Stack Developer with a strong data science foundation. I e
 ![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat&logo=mui&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ### 🤖 Machine & Deep Learning
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
