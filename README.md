@@ -59,7 +59,7 @@
 I'm a passionate Full Stack Developer with a strong data science foundation. I enjoy building intelligent, user-focused solutions from backend logic to sleek interfaces.
 
 - 👩‍🏫 Created a **personal ML blog platform** in **Hebrew** using Angular + Node.js, with live **Pyodide code execution** and Jupyter rendering - [Check it out here](https://creatingai.onrender.com)
-- 🌐 Built a **secure forum platform** with **C#, React** & **Azure AI**, tailored for parents and counselors. [Live site](https://education-for-all.onrender.com)
+- 🌐 Built a **secure forum platform** with **C#, React** & **Azure AI**, tailored for parents and counselors: [Live site](https://education-forall.onrender.com)
   
 ---
 
