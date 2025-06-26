@@ -15,35 +15,38 @@
     src="https://img.shields.io/static/v1?color=%2310B981&label=Portfolio&message=efrat-dev.vercel.app&style=flat&logo=vercel&logoColor=ffffff&labelColor=334155"
   />
 </a>
-  
   <a href="https://creatingai.onrender.com">
     <img
       alt="My Blog"
       src="https://img.shields.io/static/v1?color=%2310B981&label=Blog&message=creatingai&style=flat&logo=bookstack&logoColor=ffffff&labelColor=334155"
     />
   </a>
-  
+    <a href="https://github.com/efrat-dev">
+    <img
+      alt="My GitHub Profile"
+      src="https://img.shields.io/static/v1?color=%2310B981&label=&message=efrat-dev&style=flat&logo=github&logoColor=ffffff&labelColor=334155"
+    />
+  </a>
+
+  <a href="https://huggingface.co/efrat-dev">
+  <img
+    alt="My Hugging Face Profile"
+    src="https://img.shields.io/static/v1?color=%2310B981&label=HuggingFace&message=efrat-dev&style=flat&logo=huggingface&logoColor=ffffff&labelColor=334155"
+  />
+</a>
+<a href="https://pypi.org/user/efrat-dev/">
+  <img
+    alt="My PyPI Profile"
+    src="https://img.shields.io/static/v1?color=%2310B981&label=PyPI&message=efrat-dev&style=flat&logo=pypi&logoColor=ffffff&labelColor=334155"
+  />
+</a>  
   <a href="https://leetcode.com/efrat-dev/">
     <img
       alt="My LeetCode Profile"
       src="https://img.shields.io/static/v1?color=%2310B981&label=LeetCode&message=efrat-dev&style=flat&logo=leetcode&logoColor=ffffff&labelColor=334155"
     />
   </a>
-  
-<a href="https://pypi.org/user/efrat-dev/">
-  <img
-    alt="My PyPI Profile"
-    src="https://img.shields.io/static/v1?color=%2310B981&label=PyPI&message=efrat-dev&style=flat&logo=pypi&logoColor=ffffff&labelColor=334155"
-  />
-</a>
 
-  <a href="https://github.com/efrat-dev">
-    <img
-      alt="My GitHub Profile"
-      src="https://img.shields.io/static/v1?color=%2310B981&label=&message=efrat-dev&style=flat&logo=github&logoColor=ffffff&labelColor=334155"
-    />
-  </a>
-  
   <a href="mailto:efrat.developer@gmail.com">
     <img
       alt="Email Me"
