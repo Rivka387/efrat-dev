@@ -107,5 +107,13 @@ A passionate full stack developer with a strong data science foundation. I enjoy
 
 ---
 
-## 🔥 Key Technologies (Not All)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efrat-dev&layout=compact&card_width=445&exclude_repo=nand2tetris&langs_count=10)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efrat-dev&layout=compact&card_width=445&exclude_repo=nand2tetris&langs_count=10"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=efrat-dev&show_icons=true&locale=en"/>
+    </td>
+  </tr>
+</table>
