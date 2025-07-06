@@ -47,10 +47,10 @@
     />
   </a>
 
-  <a href="mailto:efrat.developer@gmail.com">
+  <a href="mailto:efratbdil@gmail.com">
     <img
       alt="Email Me"
-      src="https://img.shields.io/static/v1?color=%2310B981&label=Email&message=efrat.developer@gmail.com&style=flat&logo=gmail&logoColor=ffffff&labelColor=334155"
+      src="https://img.shields.io/static/v1?color=%2310B981&label=Email&message=efratbdil@gmail.com&style=flat&logo=gmail&logoColor=ffffff&labelColor=334155"
     />
   </a>
   </p>
