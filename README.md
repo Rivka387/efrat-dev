@@ -1,6 +1,6 @@
-<a href="https://efrat-dev.vercel.app" target="_blank">
+<a href="#">
   <img 
-    alt="Efrat Bdil | Full Stack & AI Developer" 
+    alt="Rivka | AI & Full Stack Developer" 
     src="./header.svg" 
     width="100%" 
     style="display: block;"
@@ -9,111 +9,112 @@
 
 <!-- Links -->
 <p align="center">
-<a href="https://efrat-dev.vercel.app">
-  <img
-    alt="My Portfolio Website"
-    src="https://img.shields.io/static/v1?color=%2310B981&label=Portfolio&message=efrat-dev.vercel.app&style=flat&logo=vercel&logoColor=ffffff&labelColor=334155"
-  />
-</a>
-  <a href="https://creatingai.onrender.com">
+  <a href="https://github.com/Rivka387">
     <img
-      alt="My Blog"
-      src="https://img.shields.io/static/v1?color=%2310B981&label=Blog&message=creatingai&style=flat&logo=bookstack&logoColor=ffffff&labelColor=334155"
-    />
-  </a>
-    <a href="https://github.com/efrat-dev">
-    <img
-      alt="My GitHub Profile"
-      src="https://img.shields.io/static/v1?color=%2310B981&label=&message=efrat-dev&style=flat&logo=github&logoColor=ffffff&labelColor=334155"
+      alt="GitHub Profile"
+      src="https://img.shields.io/static/v1?color=%2310B981&label=&message=Rivka387&style=flat&logo=github&logoColor=ffffff&labelColor=334155"
     />
   </a>
 
-  <a href="https://huggingface.co/efrat-dev">
-  <img
-    alt="My Hugging Face Profile"
-    src="https://img.shields.io/static/v1?color=%2310B981&label=HuggingFace&message=efrat-dev&style=flat&logo=huggingface&logoColor=ffffff&labelColor=334155"
-  />
-</a>
-<a href="https://pypi.org/user/efrat-dev/">
-  <img
-    alt="My PyPI Profile"
-    src="https://img.shields.io/static/v1?color=%2310B981&label=PyPI&message=efrat-dev&style=flat&logo=pypi&logoColor=ffffff&labelColor=334155"
-  />
-</a>  
-  <a href="https://leetcode.com/efrat-dev/">
-    <img
-      alt="My LeetCode Profile"
-      src="https://img.shields.io/static/v1?color=%2310B981&label=LeetCode&message=efrat-dev&style=flat&logo=leetcode&logoColor=ffffff&labelColor=334155"
-    />
-  </a>
-
-  <a href="mailto:efratbdil@gmail.com">
+  <a href="mailto:rivka7387@gmail.com">
     <img
       alt="Email Me"
-      src="https://img.shields.io/static/v1?color=%2310B981&label=Email&message=efratbdil@gmail.com&style=flat&logo=gmail&logoColor=ffffff&labelColor=334155"
+      src="https://img.shields.io/static/v1?color=%2310B981&label=Email&message=rivka7387@gmail.com&style=flat&logo=gmail&logoColor=ffffff&labelColor=334155"
     />
   </a>
-  </p>
-<!-- End of Links -->
+
+  <a href="https://huggingface.co/Rivka387">
+    <img
+      alt="Hugging Face Profile"
+      src="https://img.shields.io/static/v1?color=%2310B981&label=HuggingFace&message=Rivka387&style=flat&logo=huggingface&logoColor=ffffff&labelColor=334155"
+    />
+  </a>
+
+  <a href="https://pypi.org/user/Rivka387/">
+    <img
+      alt="PyPI Profile"
+      src="https://img.shields.io/static/v1?color=%2310B981&label=PyPI&message=Rivka387&style=flat&logo=pypi&logoColor=ffffff&labelColor=334155"
+    />
+  </a>
+
+  <a href="https://leetcode.com/Rivka387/">
+    <img
+      alt="LeetCode Profile"
+      src="https://img.shields.io/static/v1?color=%2310B981&label=LeetCode&message=Rivka387&style=flat&logo=leetcode&logoColor=ffffff&labelColor=334155"
+    />
+  </a>
+</p>
 
 ---
 
-## 👩‍💻 About Me
-A passionate full stack developer with a strong data science foundation. I enjoy building intelligent, user-focused solutions from backend logic to sleek interfaces.
+## 🤖 About Me
 
-- 👩‍🏫 Created a **personal ML blog platform** in **Hebrew** using Angular + Node.js, with live **Pyodide code execution** and Jupyter rendering - [Check it out here](https://creatingai.onrender.com)
-- 🌐 Built a **secure forum platform** with **C#, React** & **Azure AI**, tailored for parents and counselors: [Live site](https://education-forall.onrender.com)
-  
+AI enthusiast & full-stack developer passionate about building intelligent, production-ready systems that blend automation, data, and design.
+
+- 🧠 Creator of **AI-driven systems** for OCR & document extraction using Gemini Vision API  
+- 🏗 Developer of **Wolf Budgets**, an enterprise budgeting system (React + Node + Airtable)  
+- 💡 Builder of **Shopify Plus apps** for checkout automation & dynamic workflows  
+- ⚙️ Experienced in **OCR pipelines**, **Airtable automation**, and **LLM integration**
+
+> “Clean code, fast delivery, strong logic — that’s how good software feels.”
+
 ---
 
-## 🛠 Skills
+## 🛠 Tech Stack
 
-### 🚀 Languages & Technologies
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### 🚀 Core Languages & Tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-### 🧱 Frameworks & Tools
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat&logo=.net&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Remix](https://img.shields.io/badge/-Remix-000000?style=flat&logo=remix&logoColor=white)
+![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat&logo=mui&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-### 🤖 Machine & Deep Learning
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-9D6B00?style=flat&logo=seaborn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Pyodide](https://img.shields.io/badge/-Pyodide-3776AB?style=flat&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FF3B5C?style=flat&logo=huggingface&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
+### 🧠 AI & ML Toolkit
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Gemini Vision](https://img.shields.io/badge/-Gemini_Vision_API-4285F4?style=flat&logo=google&logoColor=white)
+![OCR](https://img.shields.io/badge/-OCR-10B981?style=flat&logo=ai&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLM%2FPrompt_Engineering-9333EA?style=flat)
+
+---
+
+## 🧩 Featured Projects
+
+- 🧾 **Wolf Budgets** – Full-stack finance system with OCR invoice analysis, categories, and validation  
+- 🧠 **DocLock** – Secure document sharing platform with AI-based file classification  
+- 🛒 **Shopify Merge Orders** – Checkout automation app for Shopify Plus  
+- ✋ **ASL Gesture Classifier** – Real-time hand gesture recognition using CNNs  
+- ⚙️ **PractiCode CLI** – C# CLI project template generator for developers
+
+---
+
+## 📊 GitHub Stats
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efrat-dev&layout=compact&card_width=445&exclude_repo=nand2tetris&langs_count=10"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivka387&layout=compact&card_width=445&exclude_repo=nand2tetris&langs_count=10"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=efrat-dev&show_icons=true&locale=en"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Rivka387&show_icons=true&locale=en"/>
     </td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+  Made with ❤️, focus, and a lot of <code>git commit --amend</code>
+</p>
